@@ -10,6 +10,22 @@ They are also configured to use two sets of resolutions: a working resolution, a
 
 To quickly trim the page by hand, go to the TRIM layer and select TRIM TO CURRENT LAYER from the image commands in the menu.
 
+## Features
+
+The template has no text labels or borders, just a series of vector shapes to define areas.
+
+![Single page](img/single-page.png)![Double page](img/double-page.png)
+
+The stronger blue outer area is full bleed, while the fainter blue interior defines the extent of the trim area.
+
+The central live area is white, with a series of blue gutters that mark it up into thirds and quarters.
+
+A series of arbitrary blue tabs at the top only remind you to fill in additional information, if needed.
+
+![Worksheet](img/worksheet.png)
+
+The worksheet is for creating layouts of contiguous pages in whatever manner you see fit, but the idea is to reserve the first column for single pages. That is, your first row may contain pages 1, 2 and 3, with the next row leaving a blank page followed by pages 4 and 5.
+
 ## Editions
 
 * Scratchmore
@@ -36,7 +52,7 @@ Target resolution   | Working resolution
 
 Under PRINT SIZE (do nothing in the upper PIXEL section), uncheck ADJUST PRINT SIZE SEPARATELY and enter your working resolution. The pixel width/height above should change, while the print width/height should remain 11 x 17 inches.
 
-![Image resize dialogue](image-resize-dialogue.png)
+![Image resize dialogue](img/image-resize-dialogue.png)
 
 You can use the chart to find your working resolution, or enter the formula as shown above.
 
