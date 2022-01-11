@@ -6,11 +6,9 @@ Different editions incorporate the attributes published by different sources. Th
 
 The files are vector-based, so they are one size fits all. They can be easily resized to match your work requirements following the instructions for resizing below.
 
-They are also configured to use two sets of resolutions: a working resolution, and a print resolution, reflecting IRL work with an art board. Without changing the actual pixel dimensions, the alternate working resolution allows you to work with and view the file as if it were an 11 x 17 inch board, with your target dimension reflecting the ultimate print size.
+They are also configured to use two sets of resolutions: a working resolution and a print resolution, reflecting IRL work with an art board. Without changing the actual pixel dimensions, the alternate working resolution allows you to work with and view the file as if it were a full 11 x 17 inch board, with your target dimension reflecting the ultimate print size.
 
-To quickly trim the page by hand, go to the TRIM layer and select TRIM TO CURRENT LAYER from the image commands in the menu.
-
-## Features
+## How to use
 
 The template has no text labels or borders, just a series of vector shapes to define areas.
 
@@ -22,9 +20,13 @@ The central live area is white, with a series of blue gutters that mark it up in
 
 A series of arbitrary blue tabs at the top only remind you to fill in additional information, if needed.
 
+The vector shapes are contained on separate layers so that they can be used to guide other actions. For instance, to quickly trim the page, go to the TRIM layer, then invoke the TRIM TO CURRENT LAYER command. That simple! The LIVE area can be copied or selected to begin building the panel borders.
+
 ![Worksheet](img/worksheet.png)
 
-The worksheet is for creating layouts of contiguous pages in whatever manner you see fit, but the idea is to reserve the first column for single pages. That is, your first row may contain pages 1, 2 and 3, with the next row leaving a blank page followed by pages 4 and 5.
+The worksheet is for creating layouts of contiguous pages in whatever manner you see fit, but the idea is to reserve the first column for single pages, and the second two columns for facing pages. That is, your first row may contain pages 1, 2 and 3, with the next row leaving a blank page followed by pages 4 and 5. Such a worksheet an be invaluable for seeing the flow of action in your pages.
+
+![Worksheet usage](img/worksheet-usage.png)
 
 ## Editions
 
