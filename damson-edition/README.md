@@ -29,3 +29,5 @@ The drawing areas are not visibly labeled, but the layout should be intuitive. T
 The areas are however labeled as layers. To quickly trim the page, go to the TRIM layer and select TRIM TO CURRENT LAYER from the menu. If you use vector to create your borders, copy the LIVE area and begin editing the live vector block.
 
 This template provides the basics and some possible shortcuts but doesn't want to box you into any particular way of doing things.
+
+Refer to [the Koriander templates](https://github.com/ko-koriander/ko-templates#readme) for more information.
