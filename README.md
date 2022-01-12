@@ -35,6 +35,14 @@ The worksheet is for creating layouts of contiguous pages in whatever manner you
     The Scratchmore edition conform to the attributes of a popular commercial board that you'll find in any art store.
 
     Keep in mind however that page dimension and ratio vary from publisher to publisher and source to source, so there is no way to create one definitive comic book page template. This template simply reflects the popular commercial board, which you may find is at odds with other recommended formats.
+    
+    Its live area is 9 x 14 inches.
+    
+* Damson
+
+    The Damson edition is another commercial board, and the same caution applies to it as its competitor Scratchmore.
+    
+    Its live area is a bit smaller at 8.75 x 13.75 inches.
 
 ## Resizing the board
 
