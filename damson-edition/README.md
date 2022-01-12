@@ -2,6 +2,10 @@
 
 ## The Damson Fatboy edition
 
+### Download
+
+Do *not* right-click on the individual KRA files to download. Click, then find the *download* button.
+
 ### Source
 
 The measures are taken from a commercial comic book art board which can be found in many art stores. Competitor of Scratchmore.
