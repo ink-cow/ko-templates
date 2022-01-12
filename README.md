@@ -6,11 +6,13 @@ Templates for creating comics in Krita.
 
 Different editions incorporate the attributes published by different sources. These attributes differ from publisher to publisher and source to source, but are constructed here in a unique, simple and flexible digital format. Each edition includes a template for a single page, double page spread, and a worksheet.
 
-Edition         | Source                | Live area 
---------------- | --------------------- | -----------
-Scratchmore     | Commercial art board  | 9 x 14 in.
-Damson          | Commerical art board  | 8.75 x 13.75
-More to come    | ...                   | ...
+Edition         | Source                | Live (inches) | Trim          | Bleed
+--------------- | --------------------- | ------------- | ------------- | --------------
+Scratchmore     | Commercial art board  | 9 x 14        | 9.75 x 15.25  | 10.25 x 15.75
+Damson Fatboy   | Commerical art board  | 8.75 x 13.75  | 9.75 x 15     | 10.375 x 15.5
+More to come    | ...                   | 
+
+Resizing and customization is OK. Check towards the bottom of this document.
 
 ## Work vs print resolution
 
@@ -28,7 +30,7 @@ Target resolution   | Working resolution
 350                 | 234.5
 300                 | 201
 
-Do not confuse pixel dimension with resolution. Do not resize the finished art for print. Find more details at the bottom of this document.
+Do not confuse pixel dimension with resolution. Do not resize the finished art for print. Resize only for digital publication.
 
 ## Vector-based
 
