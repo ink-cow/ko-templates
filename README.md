@@ -2,13 +2,35 @@
 
 Templates for creating comics in Krita.
 
+## Editions
+
 Different editions incorporate the attributes published by different sources. These attributes differ from publisher to publisher and source to source, but are constructed here in a unique, simple and flexible digital format. Each edition includes a template for a single page, double page spread, and a worksheet.
 
-The files are vector-based, so they are one size fits all. They can be easily resized to match your work requirements following the instructions for resizing below.
+Edition         | Source                | Live area 
+--------------- | --------------------- | -----------
+Scratchmore     | Commercial art board  | 9 x 14 in.
+Damson          | Commerical art board  | 8.75 x 13.75
+More to come    | ...                   | ...
 
-They are also configured to use two sets of resolutions: a working resolution and a print resolution, reflecting IRL work with an art board. Without changing the actual pixel dimensions, the alternate working resolution allows you to work with and view the file as if it were a full 11 x 17 inch board, with your target dimension reflecting the ultimate print size.
+## Work vs print resolution
 
-## How to use
+The resolution of each template is set to 67% of the target print resolution so that the physical area can be measured like a full-size art board while working. That means that if you are used to working on an 11 x 17 inch board, you can apply the same dimensions to elements within the digital template.
+
+When you open a template marked 300 for instance, you will see that the file is set to 201 dpi. The chart below shows the corresponding print and working resolutions.
+
+Target resolution   | Working resolution
+------------------: | ------------------
+600                 | 402
+550                 | 368.5
+500                 | 335
+450                 | 301.5
+400                 | 268
+350                 | 234.5
+300                 | 201
+
+Do not confuse pixel dimension with resolution. Do not resize the finished art for print. Find more details at the bottom of this document.
+
+## Vector-based
 
 The template has no text labels or borders, just a series of vector shapes to define areas.
 
@@ -28,21 +50,7 @@ The worksheet is for creating layouts of contiguous pages in whatever manner you
 
 ![Worksheet usage](img/worksheet-usage.png)
 
-## Editions
 
-* Scratchmore
-    
-    The Scratchmore edition conform to the attributes of a popular commercial board that you'll find in any art store.
-
-    Keep in mind however that page dimension and ratio vary from publisher to publisher and source to source, so there is no way to create one definitive comic book page template. This template simply reflects the popular commercial board, which you may find is at odds with other recommended formats.
-    
-    Its live area is 9 x 14 inches.
-    
-* Damson
-
-    The Damson edition is another commercial board, and the same caution applies to it as its competitor Scratchmore.
-    
-    Its live area is a bit smaller at 8.75 x 13.75 inches.
 
 ## Resizing the board
 
