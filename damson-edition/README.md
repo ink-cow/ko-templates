@@ -30,4 +30,4 @@ The areas are however labeled as layers. To quickly trim the page, go to the TRI
 
 This template provides the basics and some possible shortcuts but doesn't want to box you into any particular way of doing things.
 
-Refer to [the Koriander templates](https://github.com/ko-koriander/ko-templates#readme) for more information.
+Refer back to [the Koriander templates](https://github.com/ko-koriander/ko-templates#readme) for more information.
