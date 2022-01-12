@@ -85,3 +85,5 @@ If you have specific requirements (from a particular printer, for instance) you 
 Starting with really just any file you find here, click on any of the vector blocks, and switch the geometry in TOOL OPTIONS to inches (or centimeters, if you prefer).
 
 Unlock the locked layers, change the dimension. Recenter blocks if necessary. Edit the labels, re-lock the layers and be sure to save with a new name.
+
+The blocks are vector, so it doesn't matter what resolution file you use to do this. After you finish customization, you can use the chart above to adjust to any resolution.
