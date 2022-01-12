@@ -78,5 +78,10 @@ You can use the chart to find your working resolution, or enter the formula as s
 
 Switching to the print resolution does not resize or alter the art in any way. Check ADJUST PRINT SIZE SEPARATELY and enter your print resolution. Now the pixel dimensions should remain unchanged; this only alters the relative measurements to the set pixel size.
 
+## Customization
 
+If you have specific requirements (from a particular printer, for instance) you can customize the template for your own use.
 
+Starting with really just any file you find here, click on any of the vector blocks, and switch the geometry in TOOL OPTIONS to inches (or centimeters, if you prefer).
+
+Unlock the locked layers, change the dimension. Recenter blocks if necessary. Edit the labels, re-lock the layers and be sure to save with a new name.
