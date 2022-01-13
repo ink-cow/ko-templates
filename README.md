@@ -26,15 +26,11 @@ The resolution can be changed to the conventional number, as long as the actual 
 
 ## Layout
 
-The template has no text labels or borders, just a series of vector shapes to define areas. The layout should be easy to figure out without labels, but each has a label for its separate layer.
+The aim was an intuitive design that needs no visible text labels. There are no borders, just a series of vector shapes to define the important areas.
 
 ![Single page](img/single-page.png)![Double page](img/double-page.png)
 
-The stronger blue outer area is full bleed, while the fainter blue interior defines the extent of the trim area.
-
-The central live area is white, with a series of blue gutters that mark it up into thirds and quarters.
-
-A series of arbitrary blue tabs at the top only remind you to fill in additional information, if needed.
+The comic book template is comprised of the live area, trim and full bleed. The live area is white, divided in quarters and thirds; the trim area extends just beyond these divisions. The strongest blue is the full bleed area.
 
 The vector shapes are contained on separate layers so that they can be used to guide other actions. For instance, to quickly trim the page, go to the TRIM layer, then invoke the TRIM TO CURRENT LAYER command. That simple! The LIVE area can be copied or selected to begin building the panel borders.
 
