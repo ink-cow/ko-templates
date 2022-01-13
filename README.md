@@ -18,23 +18,15 @@ Resizing and customization is OK. Check towards the bottom of this document.
 
 The resolution of each template is set to 67% of the target print resolution so that the physical area can be measured like a full-size art board while working. That means that if you are used to working on an 11 x 17 inch board, you can apply the same dimensions to elements within the digital template.
 
-When you open a template marked 300 for instance, you will see that the file is set to 201 dpi. The chart below shows the corresponding print and working resolutions.
+When you open a template marked 300 for instance, you will see that the file is set to 201 dpi. The area measurements reflect a full-size art board.
 
-Target resolution   | Working resolution
-------------------: | ------------------
-600                 | 402
-550                 | 368.5
-500                 | 335
-450                 | 301.5
-400                 | 268
-350                 | 234.5
-300                 | 201
+![Dimensions](img/dimensions.png)
 
-Do not confuse pixel dimension with resolution. Do not resize the finished art for print. Resize only for digital publication.
+The resolution can be changed to the conventional number, as long as the actual pixel dimensions don't change.
 
-## Vector-based
+## Layout
 
-The template has no text labels or borders, just a series of vector shapes to define areas.
+The template has no text labels or borders, just a series of vector shapes to define areas. The layout should be easy to figure out without labels, but each has a label for its separate layer.
 
 ![Single page](img/single-page.png)![Double page](img/double-page.png)
 
@@ -51,8 +43,6 @@ The vector shapes are contained on separate layers so that they can be used to g
 The worksheet is for creating layouts of contiguous pages in whatever manner you see fit, but the idea is to reserve the first column for single pages, and the second two columns for facing pages. That is, your first row may contain pages 1, 2 and 3, with the next row leaving a blank page followed by pages 4 and 5. Such a worksheet an be invaluable for seeing the flow of action in your pages.
 
 ![Worksheet usage](img/worksheet-usage.png)
-
-
 
 ## Resizing the board
 
