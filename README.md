@@ -14,13 +14,10 @@ Edition                                                                         
 
 The following edition's dimensions were posted as final print size, instead of a full size art board. For this edition, disregard the next section on *work vs print resolution*. The template is simply set to 300 dpi, 400 dpi, etc.
 
-Edition                                                                         | Source                | Live (inches) | Trim          | Bleed
-------------------------------------------------------------------------------- | --------------------- | ------------- | ------------- | --------
-[Ka-zam](https://github.com/ko-koriander/ko-templates/tree/main/kazam-edition)  | Art resource website  | 6.25 x 9.75   | 6.75 x 10.25  | 7 x 10.5
-
-Manga variants                                                                  | Source                | Live (inches) | Trim          | Bleed
-------------------------------------------------------------------------------- | --------------------- | ------------- | ------------- | --------
-[Ka-zam](https://github.com/ko-koriander/ko-templates/tree/main/kazam-edition)  | Art resource website  | 4.5 x 7       | 5 x 7.5       | 5.5 x 7.75
+Edition                                                                               | Source                | Live (inches) | Trim          | Bleed
+------------------------------------------------------------------------------------- | --------------------- | ------------- | ------------- | --------
+[Ka-zam](https://github.com/ko-koriander/ko-templates/tree/main/kazam-edition)        | Art resource website  | 6.25 x 9.75   | 6.75 x 10.25  | 7 x 10.5
+[Ka-zam manga](https://github.com/ko-koriander/ko-templates/tree/main/kazam-edition)  | Art resource website  | 4.5 x 7       | 5 x 7.5       | 5.5 x 7.75
 
 Resizing and customization is OK. Check towards the bottom of this document.
 
