@@ -10,17 +10,29 @@ Do *not* right-click on the individual KRA files to download. Click, then find t
 
 The measures are taken from guidelines posted by a popular comic book resource website. The guidelines are for the final reduced print and not a full-size art board, so we do not use our work file resolution trick. 300 dpi is merely 300 dpi, etc.
 
-Area    | Measure in inches
-------- | -----------------
-Live    | 6.25 x 9.75
-Trim    | 6.75 x 10.25
-Bleed   | 7 x 10.5
+Area            | Measure in inches
+--------------- | -----------------
+Live            | 6.25 x 9.75
+Trim            | 6.75 x 10.25
+Bleed           | 7 x 10.5
 
-Double  | Measure in inches
-------- | -----------------
-Live    | 13 x 9.75
-Trim    | 13.5 x 10.25
-Bleed   | 13.75 x 10.5
+Double          | Measure in inches
+--------------- | -----------------
+Live            | 13 x 9.75
+Trim            | 13.5 x 10.25
+Bleed           | 13.75 x 10.5
+
+Manga Single    | Measure in inches
+--------------- | -----------------
+Live            | 4.5 x 7
+Trim            | 5 x 7.5
+Bleed           | 5.5 x 7.75
+
+Manga Double    | Measure in inches
+--------------- | -----------------
+Live            | 9.5 x 7
+Trim            | 10 x 7.5
+Bleed           | 10.5 x 7.75
 
 [The website resource erroneously labels the double-page bleed area as 13.625; the trim area requires 13.75, corrected here]
 
