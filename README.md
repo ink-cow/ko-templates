@@ -18,6 +18,10 @@ Edition                                                                         
 ------------------------------------------------------------------------------- | --------------------- | ------------- | ------------- | --------
 [Ka-zam](https://github.com/ko-koriander/ko-templates/tree/main/kazam-edition)  | Art resource website  | 6.25 x 9.75   | 6.75 x 10.25  | 7 x 10.5
 
+Manga variants                                                                  | Source                | Live (inches) | Trim          | Bleed
+------------------------------------------------------------------------------- | --------------------- | ------------- | ------------- | --------
+[Ka-zam](https://github.com/ko-koriander/ko-templates/tree/main/kazam-edition)  | Art resource website  | 4.5 x 7       | 5 x 7.5       | 5.5 x 7.75
+
 Resizing and customization is OK. Check towards the bottom of this document.
 
 ## Work vs print resolution
