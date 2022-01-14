@@ -6,17 +6,17 @@ Templates for creating comics in Krita.
 
 Different editions incorporate the attributes published by different sources. These attributes differ from publisher to publisher and source to source, but are constructed here in a unique, simple and flexible digital format. Each edition includes a template for a single page, double page spread, and a worksheet.
 
-Edition         | Source                | Live (inches) | Trim          | Bleed
---------------- | --------------------- | ------------- | ------------- | --------------
-Scratchmore     | Commercial art board  | 9 x 14        | 9.75 x 15.25  | 10.25 x 15.75
-Damson Fatboy   | Commerical art board  | 8.75 x 13.75  | 9.75 x 15     | 10.375 x 15.5
-Whambot         | Art resource website  | 9 x 14.25     | 9.75 x 15     | 10 x 15.375                |
+Edition                                                                                   | Source                | Live (inches) | Trim          | Bleed
+----------------------------------------------------------------------------------------- | --------------------- | ------------- | ------------- | -------------
+[Scratchmore](https://github.com/ko-koriander/ko-templates/tree/main/scratchmore-edition) | Commercial art board  | 9 x 14        | 9.75 x 15.25  | 10.25 x 15.75
+[Damson Fatboy](https://github.com/ko-koriander/ko-templates/tree/main/damson-edition)    | Commerical art board  | 8.75 x 13.75  | 9.75 x 15     | 10.375 x 15.5
+[Whambot](https://github.com/ko-koriander/ko-templates/tree/main/whambot-edition)         | Art resource website  | 9 x 14.25     | 9.75 x 15     | 10 x 15.375
 
 The following edition's dimensions were posted as final print size, instead of a full size art board. For this edition, disregard the next section on *work vs print resolution*. The template is simply set to 300 dpi, 400 dpi, etc.
 
-Edition         | Source                | Live (inches) | Trim          | Bleed
---------------- | --------------------- | ------------- | ------------- | --------------
-Ka-zam          | Art resource website  | 6.25 x 9.75   | 6.75 x 10.25  | 7 x 10.5
+Edition                                                                         | Source                | Live (inches) | Trim          | Bleed
+------------------------------------------------------------------------------- | --------------------- | ------------- | ------------- | --------
+[Ka-zam](https://github.com/ko-koriander/ko-templates/tree/main/kazam-edition)  | Art resource website  | 6.25 x 9.75   | 6.75 x 10.25  | 7 x 10.5
 
 Resizing and customization is OK. Check towards the bottom of this document.
 
