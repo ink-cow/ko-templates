@@ -2,6 +2,8 @@
 
 ## The Damson Fatboy edition
 
+![Fatboy](../img/fatboy.png)
+
 ### Download
 
 Do *not* right-click on the individual KRA files to download. Click, then find the *download* button.
