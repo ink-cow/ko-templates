@@ -4,7 +4,7 @@ Templates for creating comics in Krita.
 
 ## Editions
 
-![Scratchmore](img/scratchmore-sm.png)![Whambot](img/whambot.png)
+![Mascots](img/mascots.png)
 
 Different editions incorporate the attributes published by different sources. These attributes differ from publisher to publisher and source to source, but are constructed here in a unique, simple and flexible digital format. Each edition includes a template for a single page, double page spread, and a worksheet.
 
