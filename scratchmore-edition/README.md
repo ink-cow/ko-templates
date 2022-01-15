@@ -2,6 +2,8 @@
 
 ## The Scratchmore edition
 
+![Scratchmore](../img/scratchmore.png)
+
 ### Download
 
 Do *not* right-click on the individual KRA files to download. Click, then find the *download* button.
