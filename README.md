@@ -1,6 +1,6 @@
 # The Koriander templates
 
-Templates for creating comics in Krita.
+Templates for creating comics in Krita, following the guidelines of popular sources but also wholly customizable.
 
 ## Editions
 
