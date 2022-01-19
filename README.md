@@ -8,11 +8,15 @@ Templates for creating comics in Krita, following the guidelines of popular sour
 
 Different editions incorporate the attributes published by different sources. These attributes differ from publisher to publisher and source to source, but are constructed here in a unique, simple and flexible digital format. Each edition includes a template for a single page, double page spread, and a worksheet.
 
-Edition                                                                                   | Source                | Live (inches) | Trim          | Bleed
+US editions (67% dpi)                                                                     | Source                | Live (inches) | Trim          | Bleed
 ----------------------------------------------------------------------------------------- | --------------------- | ------------- | ------------- | -------------
 [Scratchmore](https://github.com/ko-koriander/ko-templates/tree/main/scratchmore-edition) | Commercial art board  | 9 x 14        | 9.75 x 15.25  | 10.25 x 15.75
 [Damson Fatboy](https://github.com/ko-koriander/ko-templates/tree/main/damson-edition)    | Commerical art board  | 8.75 x 13.75  | 9.75 x 15     | 10.375 x 15.5
 [Whambot](https://github.com/ko-koriander/ko-templates/tree/main/whambot-edition)         | Art resource website  | 9 x 14.25     | 9.75 x 15     | 10 x 15.375
+
+Manga editions (50% dpi)                                                                  | Source                | Live (inches) | Trim          | Bleed
+----------------------------------------------------------------------------------------- | --------------------- | ------------- | ------------- | -------------
+[Tokyobop](https://github.com/ko-koriander/ko-templates/tree/main/tokyobop-edition)       | Publisher             | 9 x 13.375    | 10 x 14.875   | 11 x 15.875
 
 The following edition's dimensions were posted as final print size, instead of a full size art board. For this edition, disregard the next section on *work vs print resolution*. The template is simply set to 300 dpi, 400 dpi, etc.
 
